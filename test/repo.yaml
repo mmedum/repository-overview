@@ -1,0 +1,9 @@
+repositoryName: Fancy Pants
+owners:
+  - name: Team Fancy Pants
+    email: test@test.com
+    slackChannel: team_fancy_pants
+  - name: Team Fancy Shirt
+    email: test1@test1.com
+    slackChannel: team_fancy_shirt
+description: This is fancy pants repo
